@@ -1,0 +1,13 @@
+/*
+ * Interface RecargaMovil
+
+ */
+package taller_clse;
+
+/**
+ *
+ * @author Jhon Correa, Natalia Giraldo, Miguel Paz.
+ */
+public interface RecargaMovil {
+    void recargar();
+}
